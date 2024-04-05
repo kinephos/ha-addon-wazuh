@@ -1,6 +1,6 @@
-# Example Home Assistant add-on repository
+# Home Assistant Add-on Wazuh Agent
 
-This repository can be used as a "blueprint" for add-on development to help you get started.
+Experimental add-on to see if I can get the Wazuh agent to work correctly within Home Assistant
 
 Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 
